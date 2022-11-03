@@ -1,0 +1,23 @@
+.land_page {
+  height: 740px;
+  width: 100%;
+  background-image: url("./traveller-sitting-rock.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.navbar-brand span {
+  color: orange;
+  font-size: 3rem;
+}
+.header_content {
+  text-align: center;
+}
+.travel_quotes p {
+  font-size: 4em;
+  font-weight: 800;
+  color: white;
+}
+.travel_quotes span {
+  font-family: "Send Flowers", cursive;
+}
